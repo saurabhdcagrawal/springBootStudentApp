@@ -1,0 +1,1 @@
+INSERT INTO STUDENT (ID,NAME,EMAIL,DATE_OF_BIRTH) values (2,'Shyam','shyam@infy.com','1990-12-22')
